@@ -25,7 +25,7 @@ pip install flask
 ```
 3. アプリケーションを起動します。
 ```bash
-python app.py
+python3 app.py
 ```
 4. ブラウザで http://127.0.0.1:5000 にアクセスしてください。
 
