@@ -104,7 +104,7 @@ jupyterlab_server==2.25.0
 keras==2.13.1
 keyring==18.0.1
 kiwisolver==1.4.4
-language-selector==0.1
+
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
